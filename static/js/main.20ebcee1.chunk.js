@@ -1,0 +1,2 @@
+(this.webpackJsonpnotes=this.webpackJsonpnotes||[]).push([[0],{4:function(e,t,n){"use strict";n.r(t);n(0);var o=n(2),s=n.n(o),r=n(3);s.a.render(Object(r.jsx)("h1",{children:"Boiler Code Ready!"}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.20ebcee1.chunk.js.map
