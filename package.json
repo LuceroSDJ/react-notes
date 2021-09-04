@@ -12,7 +12,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "homepage": "http://LuceroSDJ.github.io/react-notes",
+    "homepage": "http://lucerosdj.github.io/react-notes/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
