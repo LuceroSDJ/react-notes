@@ -1,4 +1,5 @@
 {
+  "homepage": "https://lucerosdj.github.io/react-notes/",
   "name": "notes",
   "version": "0.1.0",
   "private": true,
@@ -12,7 +13,6 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "homepage": "https://lucerosdj.github.io/react-notes/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
