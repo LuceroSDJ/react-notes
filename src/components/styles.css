@@ -12,14 +12,14 @@ body {
 }
   
 header {
-    background-color: #f5ba13;
+    background-color: #fae29f;
     margin: auto -16px;
     padding: 16px 32px;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
 }
 
 header h1 {
-    color: #fff;
+    color: rgb(26, 170, 158);
     font-family: "McLaren", cursive;
     font-weight: 200;
 }
@@ -36,7 +36,7 @@ footer p {
     color: #ccc;
 }
 .note {
-    background: #fff;
+    /* background: #fff; */
     border-radius: 7px;
     box-shadow: 0 2px 5px #ccc;
     padding: 10px;
@@ -47,12 +47,14 @@ footer p {
 .note h1 {
     font-size: 1.1em;
     margin-bottom: 6px;
+    text-align: center;
 }
 .note p {
     font-size: 1.1em;
     margin-bottom: 10px;
     white-space: pre-wrap;
     word-wrap: break-word;
+    text-align: center;
 }
   
 form {
@@ -72,9 +74,10 @@ form textarea {
   padding: 6px;
   font-size: 1.2em;
   font-family: inherit;
+  text-align: center;
 }
 
-form button {
+form .button {
     position: absolute;
     right: 18px;
     bottom: -18px;
